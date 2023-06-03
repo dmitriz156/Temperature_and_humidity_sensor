@@ -1,0 +1,3 @@
+../Core/Src/DHT22.c:10:13:pinOutput	32	static
+../Core/Src/DHT22.c:28:13:pinInput	32	static
+../Core/Src/DHT22.c:42:10:DHT_getData	64	static
